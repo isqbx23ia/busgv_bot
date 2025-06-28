@@ -1,11 +1,13 @@
-[*Testes no Telegram: 124 (Estrelinha/Jardim da Penha), 825 (Terminal Larnajeiras/Nova Carapina I e II);*]
-[*Bot:  [https://t.me/busgv_bot] ;]
-[Notas:] [1: Precisa de 3 algarismos (0xx,1xx) para testar os horários;]
-       [2: Linhas do Seletivo não funcionam mais, pois foram desativadas;]
-       [3: Códigos de consulta referentes à disponiblidade da Ceturb (0xx a 9xx);]
+[*Testes no Telegram: 124 (Estrelinha/Jardim da Penha), 825 (Terminal Laranjeiras/Nova Carapina I e II);*]  
+[*Bot:  [https://t.me/busgv_bot](https://t.me/busgv_bot);*]  
 
-[Fontes:][https://ceturb.es.gov.br/]
-[Autor:][ ](https://github.com/estevao90)
+[Notas:]  
+[1: Precisa de 3 algarismos (0xx, 1xx) para testar os horários;]  
+[2: Linhas do Seletivo não funcionam mais, pois foram desativadas;]  
+[3: Códigos de consulta referentes à disponibilidade da Ceturb (0xx a 9xx);]  
+
+[Fontes:] [https://ceturb.es.gov.br](https://ceturb.es.gov.br)  
+[Autor:] [https://github.com/estevao90](https://github.com/estevao90)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 # busgv_bot
 
